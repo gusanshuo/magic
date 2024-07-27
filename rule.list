@@ -1,1 +1,5 @@
 # proxy
+DOMAIN-SUFFIX,userapi.com,DIRECT
+DOMAIN-SUFFIX,adobe.com,DIRECT
+PROCESS-NAME,/Applications/Utilities/Adobe Creative Cloud/ACC/Creative Cloud.app/Contents/MacOS/Creative Cloud,DIRECT
+RULE-SET,SYSTEM,🇸🇬 新加坡节点
