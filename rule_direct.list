@@ -9,5 +9,9 @@ DOMAIN-SUFFIX,userapi.com
 DOMAIN-SUFFIX,adobe.com
 DOMAIN-SUFFIX,adobe.io
 DOMAIN-SUFFIX,userapi.com
-
 DOMAIN-KEYWORD,okx
+
+#进程direct
+/Applications/MacUpdater.app/Contents/MacOS/MacUpdater
+/Applications/Microsoft Outlook.app/Contents/MacOS/Microsoft Outlook
+#/Applications/Utilities/Adobe Creative Cloud/ACC/Creative Cloud.app/Contents/MacOS/Creative Cloud
