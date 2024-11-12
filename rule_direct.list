@@ -6,7 +6,7 @@ DOMAIN-SUFFIX,douban.com
 DOMAIN-SUFFIX,wpzysq.com
 DOMAIN-SUFFIX,wpzysk.cn
 DOMAIN-SUFFIX,userapi.com
-DOMAIN-SUFFIX,adobe.com
+#DOMAIN-SUFFIX,adobe.com
 DOMAIN-SUFFIX,adobe.io
 DOMAIN-SUFFIX,userapi.com
 DOMAIN-KEYWORD,okx
