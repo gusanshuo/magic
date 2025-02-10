@@ -11,8 +11,8 @@ DOMAIN-SUFFIX,userapi.com
 #DOMAIN-SUFFIX,adobe.io
 DOMAIN-SUFFIX,userapi.com
 DOMAIN-KEYWORD,okx
-DOMAIN-SUFFIX,insta360.com
 DOMAIN-SUFFIX,okx.com
+DOMAIN-SUFFIX,insta360.com
 DOMAIN-SUFFIX,giffgaff.com
 DOMAIN-SUFFIX,seagm.com
 DOMAIN-SUFFIX,superwhisper.com
@@ -36,9 +36,8 @@ DOMAIN,updates.can-apple.com
 DOMAIN,swcdn.apple.com
 DOMAIN,gateway.icloud.com
 DOMAIN-SUFFIX,icloud-content.com
-DOMAIN,dl.google.com
-
-
-
+DOMAIN-KEYWORD,wise
+DOMAIN-SUFFIX,wise.com
+DOMAIN-KEYWORD,wise
 
 
