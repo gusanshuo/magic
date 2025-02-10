@@ -25,12 +25,6 @@ DOMAIN-SUFFIX,cdn-apple.com
 DOMAIN-SUFFIX,antpcdn.com
 DOMAIN-SUFFIX,adobe.com
 DOMAIN-SUFFIX,microsoft.com
-DOMAIN-SUFFIX,
-DOMAIN-SUFFIX,
-DOMAIN-SUFFIX,
-DOMAIN-SUFFIX,
-DOMAIN-SUFFIX,
-DOMAIN-SUFFIX,
 DOMAIN,downloads.skylum.com
 DOMAIN,cdn-Ifs.hf.co
 DOMAIN,ccmdls.adobe.com
@@ -43,7 +37,6 @@ DOMAIN,swcdn.apple.com
 DOMAIN,gateway.icloud.com
 DOMAIN-SUFFIX,icloud-content.com
 DOMAIN,dl.google.com
-DOMAIN,
 
 
 
