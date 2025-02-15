@@ -1,5 +1,6 @@
-#DOMAIN-SUFFIX,binance.com
+RULE-SET,#DOMAIN-SUFFIX,binance.com
 DOMAIN-SUFFIX,blackmagicdesign.com
+DOMAIN-SUFFIX,jianguoyun.com
 DOMAIN,blackmagicdesign.com
 DOMAIN-SUFFIX,download.scdn.co
 DOMAIN-SUFFIX,zmk.pw
