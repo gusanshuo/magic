@@ -4,4 +4,4 @@ PROCESS-NAME,com.ylmf.androidclient # 115sheng
 PROCESS-NAME,com.yiwang,Proxy # 1药网
 PROCESS-NAME,com.alicloud.databox # 阿里云盘
 PROCESS-NAME,com.baidu.netdisk # 百度网盘
-PROCESS-NAME,com.iphonebei.www # 爱锋贝
+PROCESS-NAME,com.iphonebei.www,Proxy
