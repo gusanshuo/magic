@@ -1,4 +1,5 @@
-#PROCESS-NAME,com.android.vending,Proxy  # android package name（注释：空格#空格）不加Proxy默认直连
+#RULE-SET不加不加",Proxy"等策略=默认直连
+#PROCESS-NAME,com.android.vending,Proxy  # android package name（注释：空格#空格）
 PROCESS-NAME,com.ylmf.androidclient
 PROCESS-NAME,com.yiwang.Proxy # 1药网
 PROCESS-NAME,com.alicloud.databox # 阿里云盘
