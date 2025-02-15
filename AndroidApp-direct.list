@@ -1,7 +1,7 @@
 #远程订阅RULE-SET。包名后不加",Proxy"等策略=默认直连，surfboard会遵循此文件内规则设置
 #PROCESS-NAME,com.android.vending,Proxy  # android package name（注释：空格#空格）
-PROCESS-NAME,com.ylmf.androidclient
-PROCESS-NAME,com.yiwang # 1药网
+PROCESS-NAME,com.ylmf.androidclient # 115sheng
+PROCESS-NAME,com.yiwang,Proxy # 1药网
 PROCESS-NAME,com.alicloud.databox # 阿里云盘
 PROCESS-NAME,com.baidu.netdisk # 百度网盘
 PROCESS-NAME,com.iphonebei.www # 爱锋贝
