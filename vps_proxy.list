@@ -1,5 +1,5 @@
 DOMAIN-SUFFIX,rutracker.org
 DOMAIN-SUFFIX,appstorrent.ru
-#DOMAIN-SUFFIX,
+URL-REGEX,^https:\/\/download\.scdn\.co\/SpotifyARM64\.dmg$
 #DOMAIN,
 #DOMAIN,copilot.microsoft.com
