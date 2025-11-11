@@ -30,6 +30,7 @@ DOMAIN,updates.cdn-apple.com
 DOMAIN-SUFFIX,antpcdn.com
 DOMAIN-SUFFIX,adobe.com
 #DOMAIN-SUFFIX,microsoft.com
+DOMAIN-SUFFIX,skylum.com
 DOMAIN,downloads.skylum.com
 DOMAIN,cdn-Ifs.hf.co
 DOMAIN,ccmdls.adobe.com
