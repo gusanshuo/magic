@@ -13,6 +13,7 @@ DOMAIN,gsa.apple.com
 DOMAIN,idmsa.apple.com
 DOMAIN,ocsp2.apple.com
 DOMAIN,subhd.tv
+DOMAIN-SUFFIX,macked.site
 DOMAIN,swcdn.apple.com
 DOMAIN,updates.can-apple.com
 DOMAIN,updates.cdn-apple.com
