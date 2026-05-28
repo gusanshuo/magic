@@ -16,6 +16,7 @@ DOMAIN,subhd.tv
 DOMAIN,swcdn.apple.com
 DOMAIN,updates.can-apple.com
 DOMAIN,updates.cdn-apple.com
+DOMAIN-SUFFIX,cloudflare-dns.com:
 DOMAIN-SUFFIX,1password.com
 DOMAIN-SUFFIX,agilebits.com
 DOMAIN-SUFFIX,akirabox.com
