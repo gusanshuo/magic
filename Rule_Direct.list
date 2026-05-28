@@ -1,3 +1,4 @@
+#DOMAIN,DOMAIN-SUFFIX,DOMAIN-KEYWORD,
 #DOMAIN-SUFFIX,adobe.com
 #DOMAIN-SUFFIX,adobe.io
 #DOMAIN-SUFFIX,microsoft.com
@@ -13,6 +14,7 @@ DOMAIN,gsa.apple.com
 DOMAIN,idmsa.apple.com
 DOMAIN,ocsp2.apple.com
 DOMAIN,subhd.tv
+DOMAIN-KEYWORD,MACKED
 DOMAIN-SUFFIX,macked.site
 DOMAIN,swcdn.apple.com
 DOMAIN,updates.can-apple.com
