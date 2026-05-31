@@ -4,6 +4,8 @@
 #DOMAIN-SUFFIX,microsoft.com
 #DOMAIN-SUFFIX,topazlabs.com
 DOMAIN,139.com
+DOMAIN,wetype.weixin.qq.com
+DOMAIN-SUFFIX,qq.com
 DOMAIN,blackmagicdesign.com
 DOMAIN,ccmdls.adobe.com
 DOMAIN,cdn-Ifs.hf.co
