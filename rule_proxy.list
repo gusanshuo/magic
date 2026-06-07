@@ -1,5 +1,6 @@
 DOMAIN-SUFFIX,whatismyipaddress.com,Proxy
 DOMAIN-SUFFIX,googleapis.com
+DOMAIN-SUFFIX,googleusercontent.com
 DOMAIN,firefly-clio-imaging.adobe.io
 DOMAIN,firefly.adobe.io
 #>mac-app 代理下载加速
@@ -21,3 +22,4 @@ DOMAIN-SUFFIX,plumamazing.com
 #DOMAIN-SUFFIX,githubusercontent.com
 DOMAIN-SUFFIX,codeweavers.com
 DOMAIN,download.nektony.com
+
