@@ -5,7 +5,7 @@ DOMAIN,firefly-clio-imaging.adobe.io
 DOMAIN,firefly.adobe.io
 #>mac-app 代理下载加速
 DOMAIN,downloads.1password.com
-DOMAIN,desktop.docker.com
+#DOMAIN,desktop.docker.com
 DOMAIN,download-cf.jetbrains.com
 DOMAIN,download.proxyman.io
 DOMAIN,psv4.userapi.com
@@ -22,4 +22,3 @@ DOMAIN-SUFFIX,plumamazing.com
 #DOMAIN-SUFFIX,githubusercontent.com
 DOMAIN-SUFFIX,codeweavers.com
 DOMAIN,download.nektony.com
-
