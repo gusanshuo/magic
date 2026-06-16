@@ -18,7 +18,6 @@ DOMAIN,gateway.icloud.com
 DOMAIN,gsa.apple.com
 DOMAIN,idmsa.apple.com
 DOMAIN,ocsp2.apple.com
-DOMAIN,subhd.tv
 DOMAIN-KEYWORD,MACKED
 DOMAIN-SUFFIX,macked.site
 DOMAIN,swcdn.apple.com
@@ -61,6 +60,8 @@ DOMAIN-SUFFIX,skylum.com
 DOMAIN-SUFFIX,srtku.com
 DOMAIN-SUFFIX,stickytimers.app
 DOMAIN-SUFFIX,subhd.tv
+DOMAIN-SUFFIX,subhd.cc
+DOMAIN-SUFFIX,subhd.me
 DOMAIN-SUFFIX,superwhisper.com
 DOMAIN-SUFFIX,tesla.cn
 DOMAIN-SUFFIX,userapi.com
